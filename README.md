@@ -3,8 +3,11 @@
 
 <h2> 📕 EPAM DevOps Essentials:</h2>
 
-- <b>Insert name</b>
-  - [Insert repo](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Networking Course</b>
+  - [Essentials Networking](https://github.com/DomasMas0303/Networking)
+    
+- <b>CentOS Linux</b>
+  - [Essentials CentOS Linux](https://github.com/DomasMas0303/Networking)
      
 <h2> 📗 EPAM DevOps Fundamentals:</h2>
 
