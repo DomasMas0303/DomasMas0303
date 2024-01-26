@@ -1,7 +1,7 @@
 <h1>Hi, I'm Domas! And this is my DevOps journey.
 <h3>Showcasing topics, technology I am familiar with, including courses I completed.</h3>
 
-<h2> 📕 EPAM DevOps Essentials:</h2>
+<h2> 📘 EPAM DevOps Essentials:</h2>
 
 - <b>Networking Course</b>
   - [Essentials Networking](https://github.com/DomasMas0303/Networking)
@@ -15,7 +15,7 @@
 - <b>Scripting: Bash</b>
   - [Essentials Bash]()
      
-<h2> 📗 EPAM DevOps Fundamentals:</h2>
+<h2> 📕 EPAM DevOps Fundamentals:</h2>
 
 - <b>Insert name</b>
   - [Insert repo](https://github.com/joshmadakor1/Algorithms-Practice)
