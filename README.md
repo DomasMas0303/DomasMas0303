@@ -3,7 +3,7 @@
 
 <h2> 📘 EPAM DevOps Essentials:</h2>
 
-- <b>Networking Course</b>
+- <b>Networking</b>
   - [Essentials Networking](https://github.com/DomasMas0303/Networking)
     
 - <b>CentOS Linux</b>
