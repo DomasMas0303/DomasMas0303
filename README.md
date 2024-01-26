@@ -9,8 +9,11 @@
 - <b>CentOS Linux</b>
   - [Essentials CentOS Linux](https://github.com/DomasMas0303/Essentials-CentOS-Linux)
  
-- <b>Version Control with GIT</b>
-  - [Essentials GIT]()
+- <b>Version Control with Git</b>
+  - [Essentials Git](https://github.com/DomasMas0303/Essentials-Git)
+
+- <b>Scripting: Bash</b>
+  - [Essentials Bash]()
      
 <h2> 📗 EPAM DevOps Fundamentals:</h2>
 
