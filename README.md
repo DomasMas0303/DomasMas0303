@@ -13,7 +13,7 @@
   - [Essentials Git](https://github.com/DomasMas0303/Essentials-Git)
 
 - <b>Scripting: Bash</b>
-  - [Essentials Bash]()
+  - [Essentials Bash](https://github.com/DomasMas0303/Essentials-Bash)
      
 <h2> 📕 EPAM DevOps Fundamentals:</h2>
 
