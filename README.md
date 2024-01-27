@@ -17,8 +17,9 @@
      
 <h2> 📕 EPAM DevOps Fundamentals:</h2>
 
-- <b>Insert name</b>
-  - [Insert repo](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Linux Practice</b>
+
+  - [Linux Fundamentals](https://github.com/DomasMas0303/Linux-Fundamentals)
 
 <h2> 👨‍💻 DevOps Projects:</h2>
 
