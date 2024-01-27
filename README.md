@@ -23,7 +23,7 @@
  
 - <b>Scripting: Bash Practice</b>
 
-  - [Bash Fundamentals]()
+  - [Bash Fundamentals](https://github.com/DomasMas0303/Bash-Fundamentals)
 
 <h2> 👨‍💻 DevOps Projects:</h2>
 
