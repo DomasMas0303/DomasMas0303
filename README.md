@@ -1,4 +1,4 @@
-<h1>Hi, I'm Domas! And this is my Cloud journey.
+<h1>Hi, I'm Domas! And this is my Cloud/DevOps journey.
 <h3>Showcasing topics, technology I am familiar with, including courses I completed.</h3>
 
 <h2> 📘 EPAM DevOps Essentials (level 1):</h2>
