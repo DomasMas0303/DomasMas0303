@@ -20,6 +20,10 @@
 - <b>Linux Practice</b>
 
   - [Linux Fundamentals](https://github.com/DomasMas0303/Linux-Fundamentals)
+ 
+- <b>Scripting: Bash Practice</b>
+
+  - [Bash Fundamentals]()
 
 <h2> 👨‍💻 DevOps Projects:</h2>
 
