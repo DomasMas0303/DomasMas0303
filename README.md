@@ -25,6 +25,10 @@
 
   - [Bash Fundamentals](https://github.com/DomasMas0303/Bash-Fundamentals)
 
+- <b>Scripting: Python</b>
+
+  - [Python Fundamentals](https://github.com/DomasMas0303/Python-Fundamentals)
+
 <h2> 👨‍💻 DevOps/Cloud Projects: (In progress)</h2>
 
 <h2> 📃 Certifications: (In progress)</h2>
