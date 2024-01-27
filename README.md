@@ -29,6 +29,10 @@
 
   - [Python Fundamentals](https://github.com/DomasMas0303/Python-Fundamentals)
 
+- <b>Containerization: Docker</b>
+
+  - [Docker Fundamentals](https://github.com/DomasMas0303/Docker-Fundamentals)
+
 <h2> 👨‍💻 DevOps/Cloud Projects: (In progress)</h2>
 
 <h2> 📃 Certifications: (In progress)</h2>
