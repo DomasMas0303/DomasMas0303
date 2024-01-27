@@ -1,7 +1,7 @@
 <h1>Hi, I'm Domas! And this is my DevOps journey.
 <h3>Showcasing topics, technology I am familiar with, including courses I completed.</h3>
 
-<h2> 📘 EPAM DevOps Essentials:</h2>
+<h2> 📘 EPAM DevOps Essentials (level 1):</h2>
 
 - <b>Networking</b>
   - [Essentials Networking](https://github.com/DomasMas0303/Networking)
@@ -15,7 +15,7 @@
 - <b>Scripting: Bash</b>
   - [Essentials Bash](https://github.com/DomasMas0303/Essentials-Bash)
      
-<h2> 📕 EPAM DevOps Fundamentals:</h2>
+<h2> 📕 EPAM DevOps Fundamentals (level 2):</h2>
 
 - <b>Linux Practice</b>
 
@@ -25,9 +25,9 @@
 
   - [Bash Fundamentals](https://github.com/DomasMas0303/Bash-Fundamentals)
 
-<h2> 👨‍💻 DevOps Projects:</h2>
+<h2> 👨‍💻 DevOps/Cloud Projects: (In progress)</h2>
 
-<h2> 📃 Certifications:</h2>
+<h2> 📃 Certifications: (In progress)</h2>
 
 
 [linkedin]: https://linkedin.com/in/joshmadakor
