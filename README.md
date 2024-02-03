@@ -16,7 +16,7 @@
   - [Essentials Bash](https://github.com/DomasMas0303/Essentials-Bash)
  
 - <b>Scripting: PowerShell</b>
-  - [Essentials PowerShell]()
+  - [Essentials PowerShell](https://github.com/DomasMas0303/Essentials-PowerShell)
      
 <h2> 📕 EPAM DevOps Fundamentals (level 2):</h2>
 
