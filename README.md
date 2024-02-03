@@ -11,12 +11,14 @@
  
 - <b>Version Control with Git</b>
   - [Essentials Git](https://github.com/DomasMas0303/Essentials-Git)
+ 
+- <b>Scripting: PowerShell</b>
+  - [Essentials PowerShell]()
 
 - <b>Scripting: Bash</b>
   - [Essentials Bash](https://github.com/DomasMas0303/Essentials-Bash)
  
-- <b>Scripting: PowerShell</b>
-  - [Essentials PowerShell]()
+
      
 <h2> 📕 EPAM DevOps Fundamentals (level 2):</h2>
 
