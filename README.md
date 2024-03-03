@@ -36,7 +36,10 @@
 
 <h2> 👨‍💻 DevOps/Cloud Projects: (In progress)</h2>
 
-<h2> 📃 Certifications: (In progress)</h2>
+<h2> 📃 Certifications: </h2>
+
+- <b>AWS Solutions Architect Associate (In progress)</b>
+
 
 
 [linkedin]: https://linkedin.com/in/joshmadakor
