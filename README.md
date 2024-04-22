@@ -2,21 +2,6 @@
 <h3>Showcasing topics, technology I am familiar with, including courses I completed.</h3>
 <h3>Tech stack:<h4> Linux | Git | Bash | Python | Docker</h4></h3>
 
-<h2> 📘 EPAM DevOps Essentials (level 1):</h2>
-
-- <b>Networking</b>
-  - [Essentials Networking](https://github.com/DomasMas0303/Networking)
-    
-- <b>CentOS Linux</b>
-  - [Essentials CentOS Linux](https://github.com/DomasMas0303/Essentials-CentOS-Linux)
- 
-- <b>Version Control with Git</b>
-  - [Essentials Git](https://github.com/DomasMas0303/Essentials-Git)
-
-- <b>Scripting: Bash</b>
-  - [Essentials Bash](https://github.com/DomasMas0303/Essentials-Bash)
-    
-     
 <h2> 📕 EPAM DevOps Fundamentals (level 2):</h2>
 
 - <b>Linux Practice</b>
@@ -34,6 +19,20 @@
 - <b>Containerization: Docker</b>
 
   - [Docker Fundamentals](https://github.com/DomasMas0303/Docker-Fundamentals)
+
+<h2> 📘 EPAM DevOps Essentials (level 1):</h2>
+
+- <b>Networking</b>
+  - [Essentials Networking](https://github.com/DomasMas0303/Networking)
+    
+- <b>CentOS Linux</b>
+  - [Essentials CentOS Linux](https://github.com/DomasMas0303/Essentials-CentOS-Linux)
+ 
+- <b>Version Control with Git</b>
+  - [Essentials Git](https://github.com/DomasMas0303/Essentials-Git)
+
+- <b>Scripting: Bash</b>
+  - [Essentials Bash](https://github.com/DomasMas0303/Essentials-Bash)
 
 <h2> 👨‍💻 DevOps/Cloud Projects: (In progress)</h2>
 
