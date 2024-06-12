@@ -1,6 +1,6 @@
 <h1>Hi, I'm Domas! And this is my "DevOps" journey.
 <h3>Showcasing topics, technology I am familiar with, including courses I completed.</h3>
-<h3>Tech stack:<h4> Linux | Git | Bash | Python | AWS | Jenkins Docker</h4></h3>
+<h3>Tech stack:<h4> Linux | Git | Bash | Python | AWS | Jenkins | Docker </h4></h3>
 
 <h2> 📕 EPAM DevOps Fundamentals (level 2):</h2>
 
