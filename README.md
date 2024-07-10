@@ -1,8 +1,20 @@
-<h1>Hi, I'm Domas! And this is my "DevOps" journey.
-<h3>Showcasing topics, technology I am familiar with, including courses I completed.</h3>
-<h3>Tech stack:<h4> Linux | Git | Bash | Python | AWS | Jenkins | Docker </h4></h3>
+<h1>Hi, I'm Domas!
 
-<h2> 📕 EPAM DevOps Fundamentals (level 2):</h2>
+<h3>Tech stack:<h4> Linux | Git | Bash | Python | AWS | Jenkins | Docker | Kubernetes | Terraform </h4></h3>
+  
+<h2> 👨‍💻 DevOps/Cloud Projects: </h2>
+
+- <b>K8s Flask app</b>
+
+  - [K8s Flask app](https://github.com/DomasMas0303/Linux-Fundamentals)
+  
+<h2> 📕 EPAM AWS Cloud & DevOps LAB:</h2>
+
+- <b>Kubernetes Practice</b>
+
+  - [Kubernetes Practice](https://github.com/DomasMas0303/Linux-Fundamentals)
+
+<h2> 📙 EPAM DevOps Fundamentals:</h2>
 
 - <b>Linux Practice</b>
 
@@ -20,7 +32,7 @@
 
   - [Docker Fundamentals](https://github.com/DomasMas0303/Docker-Fundamentals)
 
-<h2> 📘 EPAM DevOps Essentials (level 1):</h2>
+<h2> 📘 EPAM DevOps Essentials:</h2>
 
 - <b>Networking</b>
   - [Essentials Networking](https://github.com/DomasMas0303/Networking)
@@ -34,7 +46,6 @@
 - <b>Scripting: Bash</b>
   - [Essentials Bash](https://github.com/DomasMas0303/Essentials-Bash)
 
-<h2> 👨‍💻 DevOps/Cloud Projects: (In progress)</h2>
 
 <h2> 📃 Certifications: </h2>
 
