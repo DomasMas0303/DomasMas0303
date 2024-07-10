@@ -6,7 +6,7 @@
 
 - <b>K8s Flask app</b>
 
-  - [K8s Flask app](https://github.com/DomasMas0303/Linux-Fundamentals)
+  - [K8s Flask app](https://github.com/DomasMas0303/k8s-task.git)
   
 <h2> 📕 EPAM AWS Cloud & DevOps LAB:</h2>
 
