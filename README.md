@@ -4,9 +4,9 @@
   
 <h2> 👨‍💻 DevOps/Cloud Projects: </h2>
 
-- <b>K8s Flask app</b>
+- <b>Flask app K8s deployment</b>
 
-  - [K8s Flask app](https://github.com/DomasMas0303/k8s-task.git)
+  - [Flask app K8s deployment](https://github.com/DomasMas0303/k8s-task.git)
   
 <h2> 📕 EPAM AWS Cloud & DevOps LAB:</h2>
 
