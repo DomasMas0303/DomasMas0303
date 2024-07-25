@@ -4,9 +4,17 @@
   
 <h2> 👨‍💻 DevOps/Cloud Projects: </h2>
 
-- <b>Flask app K8s deployment</b>
+- <b>Kubernetes</b>
 
   - [Flask app K8s deployment](https://github.com/DomasMas0303/k8s-task.git)
+    
+- <b>CI/CD</b>
+
+  - [Continuous Deployment Using GitHub Actions (Minikube)](https://github.com/DomasMas0303/k8s-task.git)
+  - [Continuous Integration Using GitLab](https://github.com/DomasMas0303/k8s-task.git)
+  - [Continuous Integration and Delivery using Jenkins](https://github.com/DomasMas0303/k8s-task.git)
+  - [Maven + Jenkins build](https://github.com/DomasMas0303/k8s-task.git)
+  - [Gradle + Jenkins build](https://github.com/DomasMas0303/k8s-task.git)
   
 <h2> 📕 EPAM AWS Cloud & DevOps LAB:</h2>
 
