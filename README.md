@@ -12,7 +12,7 @@
 
   - [Continuous Integration and Delivery using Jenkins](https://github.com/DomasMas0303/CICD_Jenkins)
   - [Continuous Deployment Using GitHub Actions (Minikube)](https://github.com/DomasMas0303/CICD_LAB1)
-  - [Continuous Integration Using GitLab](https://github.com/DomasMas0303/k8s-task.git)
+  - [Continuous Integration Using GitLab](https://github.com/DomasMas0303/cicd2)
   - [Maven + Jenkins build](https://github.com/DomasMas0303/k8s-task.git)
   - [Gradle + Jenkins build](https://github.com/DomasMas0303/k8s-task.git)
   
