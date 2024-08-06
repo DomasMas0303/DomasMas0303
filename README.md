@@ -6,7 +6,7 @@
 
 - <b>Kubernetes</b>
 
-  - [Flask app K8s deployment](https://github.com/DomasMas0303/k8s-task.git)
+  - [K8s deployment (Flask app)](https://github.com/DomasMas0303/k8s-task.git)
     
 - <b>CI/CD</b>
 
