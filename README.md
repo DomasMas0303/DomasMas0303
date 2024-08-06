@@ -18,7 +18,7 @@
  
 - <b>AWS</b>
 
-  - [Infrastructure VPC EC2 EFS](https://github.com/DomasMas0303/k8s-task.git)
+  - [Infrastructure VPC EC2 EFS (Ghost App)](https://github.com/DomasMas0303/awslab1)
   
   
 <h2> 📕 EPAM AWS Cloud & DevOps LAB:</h2>
