@@ -3,10 +3,6 @@
 <h3>Tech stack:<h4>  Linux, Git, Bash, Python, AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Gitlab CI, Maven, Gradle  </h4></h3>
   
 <h2> 👨‍💻 DevOps/Cloud Projects: </h2>
-
-- <b>Kubernetes</b>
-
-  - [K8s deployment (Flask app)](https://github.com/DomasMas0303/k8s-task.git)
     
 - <b>CI/CD</b>
 
@@ -15,6 +11,10 @@
   - [Continuous Integration and Delivery using Jenkins](https://github.com/DomasMas0303/CICD_Jenkins)
   - [Continuous Deployment Using GitHub Actions (Minikube)](https://github.com/DomasMas0303/CICD_LAB1)
   - [Continuous Integration Using GitLab](https://github.com/DomasMas0303/cicd2)
+ 
+- <b>Kubernetes</b>
+
+  - [K8s deployment (Flask app)](https://github.com/DomasMas0303/k8s-task.git)
  
 - <b>AWS</b>
 
