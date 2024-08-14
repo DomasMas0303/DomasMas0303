@@ -18,7 +18,7 @@
  
 - <b>AWS</b>
 
-  - [Infrastructure VPC EC2 EFS (Ghost App)](https://github.com/DomasMas0303/awslab1)
+  - [Ghost App deployment (IaC)](https://github.com/DomasMas0303/awslab1)
   
   
 <h2> 📕 EPAM AWS Cloud & DevOps LAB:</h2>
