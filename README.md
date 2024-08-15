@@ -3,6 +3,10 @@
 <h3>Tech stack:<h4>  Linux, Git, Bash, Python, AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Gitlab CI, Maven, Gradle  </h4></h3>
   
 <h2> 👨‍💻 DevOps/Cloud Projects: </h2>
+
+- <b>AWS</b>
+
+  - [Ghost App deployment (IaC)](https://github.com/DomasMas0303/awslab1)
     
 - <b>CI/CD</b>
 
@@ -15,10 +19,6 @@
 - <b>Kubernetes</b>
 
   - [K8s deployment (Flask app)](https://github.com/DomasMas0303/k8s-task.git)
- 
-- <b>AWS</b>
-
-  - [Ghost App deployment (IaC)](https://github.com/DomasMas0303/awslab1)
   
   
 <h2> 📕 EPAM AWS Cloud & DevOps LAB:</h2>
