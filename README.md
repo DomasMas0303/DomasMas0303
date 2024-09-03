@@ -4,13 +4,17 @@
   
 <h2> 👨‍💻 DevOps/Cloud Projects: </h2>
 
-- <b>AWS</b>
+- <b>Kubernetes</b>
 
-  - [Ghost App deployment (IaC)](https://github.com/DomasMas0303/awslab1)
+  - [K8s deployment (Flask app)](https://github.com/DomasMas0303/k8s-task.git)
  
 - <b>Terraform</b>
 
   - [Terraform Home Lab](https://github.com/DomasMas0303/TF_homelab)
+
+- <b>AWS</b>
+
+  - [Ghost App deployment (IaC)](https://github.com/DomasMas0303/awslab1)
     
 - <b>CI/CD</b>
 
@@ -19,10 +23,6 @@
   - [Continuous Integration and Delivery using Jenkins](https://github.com/DomasMas0303/CICD_Jenkins)
   - [Continuous Deployment Using GitHub Actions (Minikube)](https://github.com/DomasMas0303/CICD_LAB1)
   - [Continuous Integration Using GitLab](https://github.com/DomasMas0303/cicd2)
- 
-- <b>Kubernetes</b>
-
-  - [K8s deployment (Flask app)](https://github.com/DomasMas0303/k8s-task.git)
   
   
 <h2> 📕 EPAM AWS Cloud & DevOps LAB:</h2>
