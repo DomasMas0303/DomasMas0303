@@ -7,6 +7,10 @@
 - <b>AWS</b>
 
   - [Ghost App deployment (IaC)](https://github.com/DomasMas0303/awslab1)
+ 
+- <b>Terraform</b>
+
+  - [TF Home Lab]()
     
 - <b>CI/CD</b>
 
