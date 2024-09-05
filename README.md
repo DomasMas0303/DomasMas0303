@@ -30,6 +30,10 @@
 - <b>Kubernetes Practice</b>
 
   - [Kubernetes Practice](https://github.com/DomasMas0303/K8spractice)
+    
+- <b>Agile,SDLC</b>
+
+  - [Agile Foundations Certifications](https://github.com/DomasMas0303/AgileCerts)
 
 <h2> 📙 EPAM DevOps Fundamentals:</h2>
 
