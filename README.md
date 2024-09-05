@@ -31,7 +31,7 @@
 
   - [Kubernetes Practice](https://github.com/DomasMas0303/K8spractice)
     
-- <b>Agile,SDLC</b>
+- <b>Agile, SDLC</b>
 
   - [Agile Foundations Certifications](https://github.com/DomasMas0303/AgileCerts)
 
