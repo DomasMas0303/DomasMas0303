@@ -1,6 +1,6 @@
 <h1>Hi, I'm Domas!
 
-<h3>Tech stack:<h4>  Linux, Git, Bash, Python, AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions  </h4></h3>
+
   
 <h2> 👨‍💻 DevOps/Cloud Projects: </h2>
 
