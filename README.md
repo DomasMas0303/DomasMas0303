@@ -68,11 +68,6 @@
   - [Essentials Bash](https://github.com/DomasMas0303/Essentials-Bash)
 
 
-<h2> 📃 Certifications: </h2>
-
-- <b>AWS Solutions Architect Associate (In progress)</b>
-
-
 
 [linkedin]: https://linkedin.com/in/joshmadakor
 
